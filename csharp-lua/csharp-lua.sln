@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-lua", "csharp-lua.csproj", "{7DBD8382-97BA-4806-9566-4D9E484374B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DBD8382-97BA-4806-9566-4D9E484374B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBD8382-97BA-4806-9566-4D9E484374B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBD8382-97BA-4806-9566-4D9E484374B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBD8382-97BA-4806-9566-4D9E484374B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D2CC3B4-5A1D-4D24-914F-9EE74B05A2D3}
+	EndGlobalSection
+EndGlobal
