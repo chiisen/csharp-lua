@@ -30,7 +30,7 @@ cd csharp-lua/csharp-lua
 
 ### 3. 還原套件並執行
 ```bash
-dotnet run
+dotnet run --project csharp-lua
 ```
 
 ---
